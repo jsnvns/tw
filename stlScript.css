@@ -1,0 +1,32 @@
+     .container {
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center
+      } 
+      
+      
+body {
+    margin: 0;
+}
+        
+#container-imagem {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+      
+body {
+    margin: 0;
+}
+        
+#container-imagem {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url(&#39;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiensUG0yp_btPXCmTGoXiQpQLN78itS7hQ9oUebMqczjJh6g_BHh-uJoy67VBo6dhqqjTWZl-LH0S8kgWqOtYNdpzvUztF_NsLP08QTUaoNAlKpfBmxwJaFQ2HZlL3NAE2QDheTEusg1gUFpitEGdX7qcMUpJO_jcd7TcS6B79-7L98Xo11UIvWSdidw/s320/tFundo.jpg &#39;);
+    background-size: cover;
+}
