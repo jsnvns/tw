@@ -11,6 +11,6 @@ window.location.href = LinkAF+'?source='+stc+'#join';
 function Click2(stc)      
 {
 	
-window.location.href = "https://www.smtcam.cf/"+stc;  
+window.location.href = "https://smtcamcf.blogspot.com/"+stc;  
  
 }
