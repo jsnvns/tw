@@ -1970,7 +1970,7 @@ window.location.href = url;
 function Click2()      
 {
   
-window.location.href = "https://www.smtcam.cf"; 
+window.location.href = "https://smtcamcf.blogspot.com/"; 
   
 }	
 	
