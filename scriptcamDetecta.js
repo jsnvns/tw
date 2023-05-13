@@ -2030,7 +2030,7 @@ xhttp.send();
 function Click2()      
 {
   
-window.location.href = "https://www.smtcam.cf/"+stc; 
+window.location.href = "https://smtcamcf.blogspot.com/"+stc; 
   
 }
 	
