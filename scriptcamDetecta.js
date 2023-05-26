@@ -2030,7 +2030,7 @@ xhttp.send();
 function Click2()      
 {
   
-window.location.href = "https://smtcamcf.blogspot.com/"+stc; 
+window.location.href = "https://www.datingfinder.cf/"+stc; 
   
 }
 	
