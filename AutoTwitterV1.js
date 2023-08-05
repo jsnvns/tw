@@ -11,6 +11,6 @@ window.location.href = LinkAF+'#'+stc;
 function Click2(stc)      
 {
 	
-window.location.href = "https://www.datingfinder.cf/"+stc;  
+window.location.href = "https://go.manny-milfs.space/8tRjS3/"+stc;  
  
 }
